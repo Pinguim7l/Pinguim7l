@@ -1,11 +1,11 @@
-# Olá, eu sou [Seu Nome]
-**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
+#👋🏾 Olá, eu sou o Fernando 
+**🎓Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
 Preparando-se para o mercado de tecnologia**
 ---
-## Sobre mim
-- Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
-- Sempre aprendendo novas tecnologias e boas práticas de programação
-- Interesse especial em **projetos web** e **desenvolvimento front-end**
+##💻Sobre mim
+- 📚Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
+- 🧑🏾‍💻Sempre aprendendo novas tecnologias e boas práticas de programação
+- 👨🏾‍💼Interesse especial em projeto empresarial
 ---
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
